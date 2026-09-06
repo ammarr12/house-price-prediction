@@ -14,14 +14,14 @@
 
 ## Project Introduction:
 This is my first **ML project** in which I used a **linear regression** for predicting house prices through their features.
-The **model** uses a simple formula of `y = mx + b` and in which it puts all its target related features into `x` and through the formula calculates target variable or `y`, ultimately learns patterns in its **training**, which it implements in its **testing** .
+The **model** uses a simple formula , ultimately learns patterns in its **training**, which it implements in its **testing** .
 
 ## Features
 * **Predictive Regression Modeling:** Predicts target house prices utilizing advanced feature mapping.
 * **Extensive Exploratory Data Analysis (EDA):** Deep dive into data distributions and feature-vs-target value correlations using visual matrices.
 * **Categorical Feature Preprocessing:** Implements structured Nominal and One-Hot Encoding to securely transform categorical variables without data leakage.
 * **Data Preparation:** Implements extensive data preparation and feature engineering to produce structured and model-ready data.
-* **Model Evaluation** Evaluates the model based upon their `rmse ` and  `r2_score` giving a comprehensive understanding of model's predictions.
+* **Model Evaluation** Evaluates the model based upon its `rmse ` and  `r2_score` giving a comprehensive understanding of model's predictions.
 
 ## Installation:
 ```bash
